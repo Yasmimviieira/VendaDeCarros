@@ -1,0 +1,15 @@
+C:\C#\Vendas_Carros\VendaDeCarros\bin\Debug\net7.0\VendaDeCarros.exe
+C:\C#\Vendas_Carros\VendaDeCarros\bin\Debug\net7.0\VendaDeCarros.deps.json
+C:\C#\Vendas_Carros\VendaDeCarros\bin\Debug\net7.0\VendaDeCarros.runtimeconfig.json
+C:\C#\Vendas_Carros\VendaDeCarros\bin\Debug\net7.0\VendaDeCarros.dll
+C:\C#\Vendas_Carros\VendaDeCarros\bin\Debug\net7.0\VendaDeCarros.pdb
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.csproj.AssemblyReference.cache
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.AssemblyInfoInputs.cache
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.AssemblyInfo.cs
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.csproj.CoreCompileInputs.cache
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.dll
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\refint\VendaDeCarros.dll
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.pdb
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\VendaDeCarros.genruntimeconfig.cache
+C:\C#\Vendas_Carros\VendaDeCarros\obj\Debug\net7.0\ref\VendaDeCarros.dll
